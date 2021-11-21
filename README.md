@@ -1,2 +1,2 @@
-# est-tica_gaby_sabino
+# estetica_gaby_sabino
 site de estética
