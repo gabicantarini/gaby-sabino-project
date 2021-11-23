@@ -6,7 +6,7 @@ body {
     ul {
        padding: 0px!important; 
     }
-    .menu-principal {
+.menu-principal {
     width: 100%;
     background-color: #8C5B65;
     height: 60px;
@@ -45,7 +45,7 @@ main, .content {
 .menu ul li {
     display: inline-block;
     color: #8b8b8b;
-    margin-left: 15px;
+    margin-left: 70px;
     height: 50px;
 }
 
@@ -80,7 +80,7 @@ main, .content {
     height: 36px;
     padding: 5px;
     width: 190px;
-    margin-top: 10px;
+    margin-top: 5px;
     background-position: 96%;
     border: 1px solid #d6d6d6;
 }
@@ -181,7 +181,7 @@ li.slick-active button {
     margin-left: 10px;
 }
 .bloco-imagem b, p {
-    text-align: left;
+    text-align: center;
 }
 .bloco-texto {
     margin-top: 3em;
@@ -211,7 +211,8 @@ h3 {
 } 
 .col-4 {
     float: left;
-    width: 25%;
+    margin-left: 30px;
+    width: 30%;
     text-align: center;
 }
 .col-4 img {
