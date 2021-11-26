@@ -1,4 +1,4 @@
-$('.slider-principal').slick({
+$('.banner').slick({
     dots: true,
     infinite: true,
     speed: 300,
